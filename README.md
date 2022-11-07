@@ -2,14 +2,6 @@
 
 # A passionate frontend and backend full stack developer from Nigeria, live in Abia state, Nigeria.
 
-eerapheal
-
-Total time coded since May 11 2022
-
-eerapheal
-
-ekpenisiraphael
-
 🌱 I’m currently learning Full Stack software development @microverse
 
 👯 I’m looking to collaborate on New projects
