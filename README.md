@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi 👋, I'm Ifeanyi Joseph Oti
 
-<!--
-**ifeanyi305/ifeanyi305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# A passionate frontend and backend full stack developer from Nigeria, live in Abia state, Nigeria.
 
-Here are some ideas to get you started:
+Ifeanyi305
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Total time coded since May 11 2022
+
+Ifeanyi305
+
+Ifeanyi oti
+
+🌱 I’m currently learning Full Stack software development @microverse
+
+👯 I’m looking to collaborate on New projects
+
+💬 Ask me about HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP AND RUBY.
+
+📫 How to reach me otijoseph305@gmail.com
+
+## Connect with me:
+
+@otiifeanyi2020
+
+## Languages and Tools:
+
+ bootstrap  css3  html5  javascript  react  sass
+
+Ifeanyi305
+Ifeanyi305
