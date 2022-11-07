@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ifeanyi Joseph Oti
 
-# A passionate frontend and backend full stack developer from Nigeria, live in Abia state, Nigeria.
+# A passionate front-end and back-end full stack developer from Nigeria, live in Abia state, Nigeria.
 
 🌱 I’m currently learning Full Stack software development @microverse
 
