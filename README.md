@@ -2,13 +2,13 @@
 
 # A passionate frontend and backend full stack developer from Nigeria, live in Abia state, Nigeria.
 
-Ifeanyi305
+eerapheal
 
 Total time coded since May 11 2022
 
-Ifeanyi305
+eerapheal
 
-Ifeanyi oti
+ekpenisiraphael
 
 🌱 I’m currently learning Full Stack software development @microverse
 
