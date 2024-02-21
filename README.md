@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate Full-Stack software developer from Nigeria, Looking for ways to become the best at what I do.</h3>
 
-- 📈 Built Web-Apps, Codes 8hrs + everyday, Collaborate with other developers around the world and more
+- 📈 Built Web-Apps, Codes 8hrs + every day, Collaborate with other developers around the world and more
 
 - 👯 I’m looking to collaborate on New projects
 
-- 💬 Ask me about Ruby, Rails, JAVASCRIPT, REACT, BOOTSTRAP AND Redux.
+- 💬 Ask me about Ruby, Rails, JAVASCRIPT, REACT, BOOTSTRAP, Node JS, AND Redux.
 
 - 📫 How to reach me otijoseph305@gmail.com
 
